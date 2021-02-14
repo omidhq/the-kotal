@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Omid Haqbin | امید حق‌بین',
+    name: 'Omid Haqbin | امید حق‌بین ',
     photo: '/omid-illustrated.jpg',
     bio: 'Frontend Developer, Aspiring Programmer, Wannabe Storyteller | توسعه‌دهنده رابط کاربری، برنامه‌نویس، داستان‌نویس',
     contacts: {
