@@ -4,7 +4,7 @@ title: Writing Doesn’t Love You
 slug: writing-doesnt-love-you
 socialImage: /media/avatar.png
 draft: false
-date: 2017-07-01T21:21:00.000Z
+date: 2017-01-07T22:21:00.000Z
 description: >
   خانم ال کندی می‌فرمایند:
 
