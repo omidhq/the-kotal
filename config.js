@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://haqbin.com',
   pathPrefix: '/',
   title: 'Omid Haqbin | امید حق‌بین',
-  subtitle: 'Frontend Developer, Aspiring Programmer, Wannabe Storyteller',
+  subtitle: 'Frontend Developer Aspiring Programmer, Wannabe Storyteller',
   copyright: '© 2021 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -31,13 +31,13 @@ module.exports = {
     contacts: {
       email: 'omid.haqbin@gmail.com',
       facebook:'',
-      twitter: 'https://twitter.com/omidhq',
-      github: 'https://github.com/omidhq',
+      twitter: 'omidhq',
+      github: 'omidhq',
       telegram:'',
       rss: '#',
       vkontakte: '',
-      linkedin: 'https://www.linkedin.com/in/omidhaqbin/',
-      instagram: 'https://www.instagram.com/omid.haqbin/',
+      linkedin: 'omidhaqbin/',
+      instagram: 'omid.haqbin/',
       line: '',
       gitlab: '',
       weibo: '',
