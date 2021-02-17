@@ -34,7 +34,7 @@ module.exports = {
       twitter: 'omidhq',
       github: 'omidhq',
       telegram:'',
-      rss: '#',
+      rss: 'https://www.haqbin.com/rss.xml',
       vkontakte: '',
       linkedin: 'omidhaqbin/',
       instagram: 'omid.haqbin/',
