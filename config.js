@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://haqbin.com',
   pathPrefix: '/',
-  title: 'Omid Haqbin | امید حق‌بین',
-  subtitle: 'Frontend Developer Aspiring Programmer, Wannabe Storyteller',
+  title: 'خانه‌ی حق‌بین',
+  subtitle: 'گوشه‌ای خلوت از یادداشت‌های روزمره امید حق‌بین درباره هر چیز و همه چیز. جایی برای مستند سازی هر آن‌چیزی که آموخته‌ام، می‌آموزم، یا که خواهم آموخت. امید حق‌بین؛ برنامه‌نویس، توسعه‌دهنده رابط کاربری، قصه‌گو و عاشق ادبیات',
   copyright: '© 2021 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 7,
@@ -12,22 +12,23 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'یادداشت‌ها',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'امید',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'تماس؟',
       path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Omid Haqbin | امید حق‌بین ',
     photo: '/omid-illustrated.jpg',
-    bio: 'Frontend Developer, Aspiring Programmer, Wannabe Storyteller | توسعه‌دهنده رابط کاربری، برنامه‌نویس، داستان‌نویس',
+    altText: "وبلاگ ‌حق‌بین - دست‌نوشته‌ها و یادداشت‌های پراکنده امید حق‌بین | Omid Haqbin's Blog - A place to document what I learn in life", 
+    bio: 'برنامه‌نویس، توسعه دهنده‌ی رابط کاربری، قصه‌گو و عاشق ادبیات | Frontend Developer, Aspiring Programmer, Wannabe Storyteller',
     contacts: {
       email: 'omid.haqbin@gmail.com',
       facebook:'',

@@ -11,6 +11,7 @@ const useSiteMetadata = () => {
               name
               bio
               photo
+              altText
               contacts {
                 facebook
                 linkedin

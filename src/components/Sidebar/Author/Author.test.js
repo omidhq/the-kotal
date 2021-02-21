@@ -7,8 +7,9 @@ describe('Author', () => {
   const props = {
     author: {
       name: 'test',
-      photo: '/photo.jpg',
-      bio: 'test'
+      photo: '/omid-illustrated.jpg',
+      bio: 'test',
+      altText: "دست نوشته ها و یادداشت‌های پراکنده امید حق‌بین - Omid Haqbin's notes"
     },
     isIndex: false
   };
