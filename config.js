@@ -7,8 +7,8 @@ module.exports = {
   subtitle: 'Frontend Developer Aspiring Programmer, Wannabe Storyteller',
   copyright: '© 2021 All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 7,
+  googleAnalyticsId: 'UA-187323310-2',
   useKatex: false,
   menu: [
     {
