@@ -1,13 +1,17 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: درباره کوتل
+slug: درباره کوتل
+socialImage: /media/image-2.jpg
+draft: false
 ---
+پیرزن مهربانی در زندگیم بود که هر وقت باهم پیاده بیرون می‌رفتیم، به دقیقه پنجم نرسیده می‌گفت:«بچم مره کوتل کو.» و من از دست او می‌گرفتم و تا رسیدن به مقصد، گاهی به او، و گاهی هم به پوست چروکیده و خال‌های قهوه‌ای دستش نگاه می‌کردم.\
+به مقصد که می‌رسیدیم، پیرزن، که ما به او مامه می‌گفتیم، با افتخار برای همه تعریف می‌کرد که نوه‌ی مهربانش با چه صبر و حوصله‌ای او را در تمام مسیر کوتل کرده است.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+جایی که من و اجدادم به آن تعلق داریم، تا چشم کار می‌کند کوه است و کوه است و کوه. هر کوه و کوره راه هم برای خودش نامی دارد. کوتل اونی، کوتل شیبر، کوتل قوناق، کوتل شاه‌تیغ. باید از قریه چندتا از این کوتل‌ها را بالا و بعد پایین و دوباره بالا و دوباره پایین بروی تا مثلا به اولین بازار یا اولین قابله یا اولین مکتب برسی. مردمان ما در اکثر موارد پیاده این مسیرها را می‌روند و گاهی تا هشت ساعت کوتل به کوتل می‌روند تا به منزل برسند. در این بین اگر بیماری، آدم ضعیفی، یا در بهترین و خواستنی‌ترین حالت، معشوقی همراه باشد، او را کوتل می‌کنند.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+زندگی من از این کوتل‌ها زیاد داشته که باید از آن‌ها عبور می‌کردم. کوتل‌های زیادی هم مانده‌اند که باید از آن‌ها بگذرم. در جریان این عبور کردن‌ها، گاهی کسی را کوتل کرده‌ام، و گاهی هم خودم کوتل شده‌ام. آه! که چقدر از این بازی زندگی خوشم می‌آید.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+در کوتل، از کوتل‌هایی که باید عبور کنم می‌نویسم. از کوتل شدن‌ها و کوتل کردن‌هایم. شاید پست، شاید بلند، شاید آسان، شاید دشوار. از همه‌شان می‌نویسم. به دو زبان انگلیسی و فارسی. فارسی را هم سعی می‌کنم به سه گویش فارسی معیار، کابلی، و هزارگی بنویسم.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+به کوتل خوش آمدید. و امیدوارم بازهم خوش بیایید.
