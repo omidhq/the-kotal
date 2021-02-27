@@ -17,25 +17,27 @@ const Author = ({ author, isIndex }: Props) => (
   <div className={styles['author']}>
 
     { isIndex === true ? (
-      <h1 className={styles['author__title']}>
-        <Link className={styles['author__title-link']} to="/">
-          <img
-            src={withPrefix(author.photo)}
-            className={styles['author__photo']}
-            alt={author.altText}
-            width="80"
-            height="80"
-          />
-        </Link>
-      </h1>
+      <div>
+        <h1 className={styles['author__title']}>
+          <Link className={styles['author__title-link']} to="/">
+            <img
+              src={withPrefix(author.photo)}
+              className={styles['author__photo']}
+              alt={author.altText}
+              width="80"
+              height="80"
+            />
+          </Link>
+        </h1>
+        <h2 className={styles['author__title']}>
+          <Link className={styles['author__title-link']} to="/">{author.name}</Link>
+        </h2>
+      </div>
     ) : (
       <h2 className={styles['author__title']}>
         <Link className={styles['author__title-link']} to="/">{author.name}</Link>
       </h2>
     )}
-    <h2 className={styles['author__title']}>
-      <Link className={styles['author__title-link']} to="/">{author.name}</Link>
-    </h2>
     <p className={styles['author__subtitle']}>{author.bio}</p>
   </div>
 );

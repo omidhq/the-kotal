@@ -20,7 +20,7 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'تماس؟',
+      label: 'تماس',
       path: '/pages/contacts'
     }
   ],
