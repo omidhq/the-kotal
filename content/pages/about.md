@@ -1,7 +1,7 @@
 ---
 template: page
 title: درباره کوتل
-slug: درباره کوتل
+slug: about
 socialImage: /media/image-2.jpg
 draft: false
 ---
