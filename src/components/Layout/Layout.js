@@ -5,10 +5,6 @@ import Helmet from 'react-helmet';
 import { useSiteMetadata } from '../../hooks';
 import styles from './Layout.module.scss';
 
-import Darkmode from 'darkmode-js';
-
-new Darkmode().showWidget();
-
 type Props = {
   children: ReactNode,
   title: string,
