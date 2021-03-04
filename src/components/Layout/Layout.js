@@ -24,7 +24,7 @@ const Layout = ({ children, title, description, socialImage = '' }: Props) => {
   return (
     <div className={styles.layout}>
       <Helmet>
-        <html lang="fa" />
+        <html lang="fa" dir="rtl" />
         <title>{title}</title>
         <meta name="description" content={description} />
         <meta property="og:site_name" content={title} />
