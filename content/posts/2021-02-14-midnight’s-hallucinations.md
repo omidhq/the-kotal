@@ -3,7 +3,7 @@ template: post
 title: Midnight’s Hallucinations
 slug: Midnight’s Hallucinations
 socialImage: /media/avatar.png
-draft: false
+draft: true
 date: 2019-04-09T22:02:00.000Z
 description: A rather long write; it’s just my late night’s hallucination. Feel
   free to skip and get on with your life.
